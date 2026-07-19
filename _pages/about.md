@@ -2,33 +2,32 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Lead Research Scientist, <a href="https://sra.samsung.com/">Samsung Research America</a>, Mountain View, CA
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Samsung Research America</p>
+    <p>Mountain View, California</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I build robots that understand contact. I am a Lead Research Scientist in the Robot Intelligence Lab at **Samsung Research America**, where I work on multi-modal foundation models for robotics and learning from ego-centric videos.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Previously, I was a Senior Principal Research Scientist at **Mitsubishi Electric Research Laboratories (MERL)** in Cambridge, MA, where I led the robotic manipulation effort — setting fundamental research directions and finding avenues for commercializing matured technologies. I also had a brief stint as AI co-founder of a robotics startup, building its manipulation-focused AI strategy.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research develops **physical intelligence for robotic manipulation**: contact-rich and dexterous manipulation, tactile sensing, contact-implicit trajectory optimization, learning from demonstration (diffusion policies), and foundation models for robotics. I have published 80+ papers at venues like ICRA, IROS, RSS, CoRL, T-RO, NeurIPS and ICML, and hold 20 granted or allowed patents.
+
+I received my Ph.D. in Mechanical Engineering from **Penn State**, along with M.A. degrees in Mathematics and Mechanical Engineering, and my B.E. from **Jadavpur University**. I serve as Area Chair for NeurIPS and ICML, and Associate Editor for IEEE T-ASE, ICRA, and CASE. I have mentored 25+ Ph.D. students and postdocs through research internships, most resulting in publications at top robotics and ML venues.
