@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-*PPGuide: Steering Diffusion Policies with Performance Predictive Guidance* accepted at **ICRA 2026**.
+_PPGuide: Steering Diffusion Policies with Performance Predictive Guidance_ accepted at **ICRA 2026**.
