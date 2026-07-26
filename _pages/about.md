@@ -30,7 +30,7 @@ Previously, I was a Senior Principal Research Scientist at <a href="https://www.
 
 **From Contact to Cognition**: I believe robots exist in a physical world where they have to do more than seeing and reacting. I believe true autonomy would come by reasoning about making and breaking contacts with their environment. My research develops **physical intelligence for contact-rich robotic manipulation**: dexterous manipulation, tactile sensing, contact-implicit trajectory optimization, learning from demonstration, and foundation models for robotics. I have published 80+ papers at venues like ICRA, IROS, RSS, CoRL, T-RO, NeurIPS and ICML, and hold 20 granted or allowed patents.
 
-I received my Ph.D. in Mechanical Engineering from Penn State, along with M.A. degrees in Mathematics and Mechanical Engineering, and my B.E. from Jadavpur University. I serve as Area Chair for NeurIPS and ICML, and Associate Editor for IEEE T-ASE, ICRA, and CASE. I have mentored 25+ Ph.D. students and postdocs through research internships, most resulting in publications at top robotics and ML venues.
+I received my Ph.D. in Mechanical Engineering from Penn State, along with M.A. degrees in Mathematics and Mechanical Engineering, and my B.E. from Jadavpur University. I serve as Area Chair for NeurIPS, AAAI and ICML, and Associate Editor for IEEE T-ASE, ICRA, and CASE. I have mentored 25+ Ph.D. students and postdocs through research internships, most resulting in publications at top robotics and ML venues.
 
 <!-- tactile marker-field background -->
 
